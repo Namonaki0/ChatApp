@@ -13,7 +13,6 @@ body {
 #chat-message-wrapper {
   border: 1px solid #1c1c1c;
   height: 70vh;
-  width: 50vw;
 }
 
 #chat-message-wrapper div {
